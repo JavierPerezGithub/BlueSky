@@ -25,7 +25,7 @@ public class Main extends Application {
 	private Pane mypane;
 	
 	/**
-	 * modifica el método start de la clase principal
+	 * modificar el método start de la clase principal
 	 */
 	
     @Override
